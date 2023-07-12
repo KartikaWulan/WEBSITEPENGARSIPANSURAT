@@ -149,30 +149,30 @@ include "koneksi/ceksession.php";
               <li>
                 <blockquote>
                   <img src="img/Grafikartes-Flat-Retro-Modern-Maps.ico" class="img-responsive">
-                  <p>Talent wins games, but teamwork and intelligence win championships. </p>
+                  <p>Semoga bisa lebih baik lagi. </p>
                 </blockquote>
-                <small>Michael Jordan</small>
+                <small>Kartika Wulandari</small>
               </li>
               <li>
                 <blockquote>
                   <img src="img/Grafikartes-Flat-Retro-Modern-Maps.ico" class="img-responsive">
-                  <p>Alone we can do so little, together we can do so much.</p>
+                  <p>Teruslah bermimpi.</p>
                 </blockquote>
-                <small>Helen Keller</small>
+                <small>Nadia Mu'izzul</small>
               </li>
               <li>
                 <blockquote>
                   <img src="img/Grafikartes-Flat-Retro-Modern-Maps.ico" class="img-responsive">
-                  <p>None of us is as smart as all of us.</p>
+                  <p>Tetap semangat.</p>
                 </blockquote>
-                <small>Ken Blanchard</small>
+                <small>Mila Amarila P</small>
               </li>
               <li>
                 <blockquote>
                   <img src="img/Grafikartes-Flat-Retro-Modern-Maps.ico" class="img-responsive">
-                  <p>Coming together is a beginning. Keeping together is progress. Working together is success.</p>
+                  <p>Pantang menyerah.</p>
                 </blockquote>
-                <small>Henry Ford</small>
+                <small>Alva Saputra</small>
               </li>
             </ul>
           </div>

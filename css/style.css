@@ -89,7 +89,7 @@ HEADER
 ************************************
 ***********************************/
 .header{
-    background: url('../img/balaikota.jpg') no-repeat fixed;
+    background: url('D:\laragon\www\arsipsurat\img\Bg_UTAMA.jpg') no-repeat fixed;
     background-size: cover;
     min-height: 650px;
     position: relative;

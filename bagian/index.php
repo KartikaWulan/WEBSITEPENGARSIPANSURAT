@@ -11,7 +11,7 @@ include "login/ceksession.php";
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Arsip Surat Kota Samarinda </title>
+    <title>Arsip Surat BPJS KETENAGAKERJAAN CABANG MALANG</title>
 
     <!-- Bootstrap -->
     <link href="../assets/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -51,6 +51,7 @@ include "login/ceksession.php";
         <!-- /top navigation -->
 
         <!-- page content -->
+
         <div class="right_col" role="main">
           <div class="row">
               <div class="col-md-12">
